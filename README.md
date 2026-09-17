@@ -1,5 +1,9 @@
-# The Twenty · Neurosymbolic Reasoning, Filtered
+# The Twenty · Neurosymbolic Reasoning
 
-Editorial dashboard: a selection spec, twenty papers that survive it, the cuts, and the open problems.
+Editorial filter of neurosymbolic reasoning plus an NLM-ready source harvest.
 
-Open `index.html` locally in a browser, or view the raw file in this repo.
+- `index.html` — interactive dashboard (spec, twenty, lineage, cuts)
+- `nlm-neurosymbolic-research.md` — NotebookLM package (analysis + 223 links)
+- `nesy-nlm-links.txt` — pure URL block, one per line
+
+Notion draft (private): https://app.notion.com/p/3ded50cfaf938128adfbdc9997fe97a8?pvs=204
